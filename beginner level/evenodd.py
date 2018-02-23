@@ -1,5 +1,5 @@
-input_num = int(input('Enter any number: '))
-if input_num % 2 == 0:
-    print(input_num, "is EVEN")
+a = int(input('Enter any number: '))
+if a % 2 == 0:
+    print(a, "is EVEN")
 else:
-    print(input_num, "is ODD")
+    print(a, "is ODD")
