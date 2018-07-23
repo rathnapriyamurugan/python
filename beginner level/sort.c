@@ -19,7 +19,7 @@
                 }
              }
         }
-        printf("The numbers arranged in ascending order are given below \n");
+        printf("The numbers arranged in ascending order \n");
         for (i = 0; i < n; ++i)
            printf("%d\n", number[i]);
     }
