@@ -1,5 +1,5 @@
-a=int(input("\nEnter the number:"))
-b=input("\nEnter the string:")
+a=int(input("\nEnter number:"))
+b=input("\nEnter string:")
 c=list(b)
 d=0
 while a>0:
